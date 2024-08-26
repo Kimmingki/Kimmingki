@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimmingki&count_bg=%234FB7EA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Minki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimmingki&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+![Minki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimmingki&show_icons=true&theme=cobalt)
  
 <br>
 
