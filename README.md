@@ -39,4 +39,4 @@
   <a href="mailto:a01050919568@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=6994CDEE)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=6994CDEE&section=footer)
